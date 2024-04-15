@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @docRoy-Dipta
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently available to work in Data Science, Python, Data Analyst, PowerBi, Machine Learning and Deep Learning
+- 💞️ I’m looking to collaborate on machine learning and deep learning projects
 - 📫 How to reach me rsrdipta1@gmail.com
 
 <!---
