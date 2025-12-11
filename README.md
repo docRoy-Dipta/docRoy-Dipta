@@ -1,4 +1,4 @@
-# Hi, I'm Dipta 👋  
+# Hi, I'm Roy 👋  
 
 **Data Science • AI & Automation • Web App Development**  
 I build intelligent data-driven systems using Python, ML/DL, and automation — and develop web applications from scratch.
